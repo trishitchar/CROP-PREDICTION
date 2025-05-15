@@ -15,8 +15,16 @@ pip install -r requirements.txt
 
 
 ## from requirements.txt
-1. python -m venv venv
-2. .\venv\Scripts\activate
-3. pip install -r requirements.txt --force-reinstall
-4. jupyter notebook
+```python
+python -m venv venv
+```
+```python
+.\venv\Scripts\activate
+```
+```python
+pip install -r requirements.txt --force-reinstall
+```
+```python
+jupyter notebook
+```
 
