@@ -22,6 +22,9 @@ python -m venv venv
 .\venv\Scripts\activate
 ```
 ```python
+pip install -r requirements.txt
+```
+```python
 pip install -r requirements.txt --force-reinstall
 ```
 ```python
